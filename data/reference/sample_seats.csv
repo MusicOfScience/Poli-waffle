@@ -1,0 +1,9 @@
+seat_id,seat_name,state,level,alp_2cp,lnp_2cp,incumbent_bloc,seat_type
+fed_vic_kooyong,Kooyong,VIC,Federal,49.2,50.8,IND,teal
+fed_vic_goldstein,Goldstein,VIC,Federal,48.9,51.1,IND,teal
+fed_nsw_hunter,Hunter,NSW,Federal,52.4,47.6,ALP,non_classic_risk
+fed_nsw_paterson,Paterson,NSW,Federal,50.4,49.6,ALP,marginal
+fed_qld_longman,Longman,QLD,Federal,50.3,49.7,ALP,marginal
+fed_wa_tangney,Tangney,WA,Federal,50.9,49.1,ALP,marginal
+fed_sa_boothby,Boothby,SA,Federal,51.6,48.4,ALP,marginal
+fed_act_canberra,Canberra,ACT,Federal,59.0,41.0,ALP,safe
