@@ -1,0 +1,11 @@
+sources:
+  aec:
+    downloads_page: "https://www.aec.gov.au/election/fe25/downloads-statistics.htm"
+    election_overview: "https://www.aec.gov.au/elections/federal_elections/2025/index.htm"
+    house_downloads: "https://results.aec.gov.au/31496/Website/HouseDownloadsMenu-31496-Csv.htm"
+    house_candidates: "https://results.aec.gov.au/31496/Website/HouseCandidates-31496.htm"
+  abs:
+    ced_reference: "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/non-abs-structures/commonwealth-electoral-divisions"
+    correspondences: "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/correspondences"
+  aph:
+    members_reference: "https://www.aph.gov.au/senators_and_members"
