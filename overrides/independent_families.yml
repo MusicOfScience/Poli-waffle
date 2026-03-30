@@ -1,0 +1,13 @@
+independent_families:
+  - family: teal
+    seats:
+      - fed_vic_kooyong
+      - fed_vic_goldstein
+    default_preference_profile: teal_metro
+    note: Placeholder grouping for metro climate-focused independents.
+
+  - family: regional_independent
+    seats:
+      - fed_sa_mayo
+    default_preference_profile: regional_independent
+    note: Placeholder grouping for regionally distinct independent contests.
