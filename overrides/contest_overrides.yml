@@ -1,0 +1,12 @@
+contest_overrides:
+  - seat_id: fed_nsw_hunter
+    election_event: federal_next_general
+    default_contest: ALP vs ONP
+    confidence: medium
+    note: Placeholder example for a non-classic final-two contest.
+
+  - seat_id: fed_vic_kooyong
+    election_event: federal_next_general
+    default_contest: IND vs LNP
+    confidence: high
+    note: Teal independent seat where final-two logic should not default to ALP vs LNP.
