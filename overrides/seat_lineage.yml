@@ -1,0 +1,16 @@
+seat_lineage:
+  - seat_id: fed_vic_kooyong
+    seat_version: fed_2025_vic_kooyong
+    seat_name: Kooyong
+    state: VIC
+    boundary_date: "2025-03-04"
+    predecessor_version: fed_2022_vic_kooyong
+    note: Current federal division used at the 2025 federal election.
+
+  - seat_id: fed_demo_new_seat
+    seat_version: example_new_seat_version
+    seat_name: Example New Seat
+    state: WA
+    boundary_date: "2025-03-04"
+    predecessor_version: null
+    note: Demonstration entry for newly created or substantially redrawn seats.
