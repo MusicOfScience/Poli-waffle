@@ -1,0 +1,17 @@
+targets:
+  house_candidates:
+    url: "https://results.aec.gov.au/31496/Website/Downloads/HouseCandidatesDownload-31496.csv"
+    output: "data/raw/aec/house_candidates.csv"
+    description: "National list of House candidates"
+  house_members_elected:
+    url: "https://results.aec.gov.au/31496/Website/Downloads/HouseMembersElectedDownload-31496.csv"
+    output: "data/raw/aec/house_members_elected.csv"
+    description: "House members elected"
+  house_first_prefs_by_candidate_vote_type:
+    url: "https://results.aec.gov.au/31496/Website/Downloads/HouseFirstPrefsByCandidateByVoteTypeDownload-31496.csv"
+    output: "data/raw/aec/house_candidate_results.csv"
+    description: "First preferences by candidate by vote type"
+  polling_places:
+    url: "https://results.aec.gov.au/31496/Website/Downloads/GeneralPollingPlacesDownload-31496.csv"
+    output: "data/raw/aec/polling_places.csv"
+    description: "Polling places reference"
