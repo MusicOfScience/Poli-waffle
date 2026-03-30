@@ -1,0 +1,8 @@
+source_name,tier,scope,update_pattern,notes
+AEC results archive,canonical,federal results,event driven,Official result history and polling place outcomes.
+AEC maps and spatial data,canonical,boundaries and SA1 links,boundary release,Division maps spatial files and SA1 allocations.
+ABS ASGS,canonical,SA1 SA2 correspondences,standard release cycle,Statistical geography and conversions.
+State electoral commissions,canonical,state results and operations,event driven,Official state result and tally material.
+Parliamentary Handbook,canonical,members reference,ongoing,Member and parliament reference context.
+Poll Bludger and BludgerTrack,advisory,poll aggregation,recurring,Analytical layer only.
+Tally Room,advisory,seat guides and commentary,recurring,Interpretive layer only.
